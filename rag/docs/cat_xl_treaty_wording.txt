@@ -1,0 +1,190 @@
+EXCESS OF LOSS REINSURANCE AGREEMENT
+BETWEEN GULF COAST INSURANCE COMPANY (CEDANT)
+AND ATLAS REINSURANCE LIMITED (REINSURER)
+
+TREATY NO: TRT-2024-001
+INCEPTION: January 1, 2024
+EXPIRY:    December 31, 2024
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 1 — COVERAGE AND STRUCTURE
+═══════════════════════════════════════════════════════════════
+
+1.1 This Agreement constitutes a Catastrophe Excess of Loss (Cat XL)
+    reinsurance contract. The Reinsurer agrees to indemnify the Cedant
+    for Ultimate Net Loss (UNL) in excess of the Cedant's Retention,
+    subject to the Reinsurer's Limit of Liability.
+
+1.2 LAYER STRUCTURE:
+    Retention (Attachment Point): USD 50,000,000 per Occurrence
+    Limit of Liability:           USD 50,000,000 per Occurrence
+    Exhaustion Point:             USD 100,000,000 per Occurrence
+
+1.3 The Reinsurer's liability in any one Occurrence shall not exceed
+    USD 50,000,000 in any one Occurrence and USD 100,000,000 in
+    the aggregate in any one Contract Year.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 2 — PERILS COVERED
+═══════════════════════════════════════════════════════════════
+
+2.1 This Agreement covers losses arising from the following perils:
+    (a) Named Windstorm (Hurricane, Tropical Storm, Typhoon)
+    (b) Flood (including Storm Surge and Inland Flood)
+    (c) Tornado and Hail (where part of a qualifying Occurrence)
+
+2.2 The following perils are EXCLUDED:
+    (a) Earthquake and Earthquake Fire Following
+    (b) Terrorism and Cyber Events
+    (c) Nuclear, Radiological, Biological, Chemical (NRBC)
+    (d) War and Military Action
+    (e) Pandemic and Communicable Disease
+    (f) Flood arising from levee failure NOT caused by a named storm
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 3 — TERRITORY
+═══════════════════════════════════════════════════════════════
+
+3.1 This Agreement applies to direct insurance policies written by
+    the Cedant covering risks located in the following US States:
+    Texas (TX), Louisiana (LA), Mississippi (MS), Alabama (AL),
+    Florida (FL).
+
+3.2 Offshore platforms and marine risks are EXCLUDED.
+
+3.3 Risks located outside the Territory are EXCLUDED even if
+    the Cedant's policy covers those risks.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 4 — REINSTATEMENTS
+═══════════════════════════════════════════════════════════════
+
+4.1 Following any loss payment, the Reinsurer's limit shall be
+    automatically reinstated up to TWO (2) times during the
+    Contract Year.
+
+4.2 Reinstatement Premium:
+    - First Reinstatement: 100% of the pro-rata annual premium
+    - Second Reinstatement: 100% of the pro-rata annual premium
+
+4.3 Reinstatement premium shall be payable within 30 days of the
+    loss payment triggering the reinstatement.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 5 — DEFINITIONS
+═══════════════════════════════════════════════════════════════
+
+5.1 OCCURRENCE: A single catastrophic event, including all losses
+    arising within a 168-hour (7 calendar day) window for windstorm
+    and flood perils. The Cedant selects the most favorable window.
+
+5.2 ULTIMATE NET LOSS (UNL): The actual loss paid by the Cedant
+    after recoveries from all inuring recoveries (e.g., primary
+    reinsurance, retrocession), but before this Agreement.
+
+5.3 RATE ON LINE (ROL): The annual reinsurance premium expressed
+    as a percentage of the layer limit. ROL = Premium / Limit.
+
+5.4 ATTACHMENT POINT: The threshold above which the Reinsurer
+    begins to pay. The Cedant retains all losses up to this amount.
+
+5.5 BURNING COST: The historical average annual loss to the layer,
+    computed as: Total layer losses / Number of experience years.
+
+5.6 IBNR (Incurred But Not Reported): Loss reserves for claims
+    that have occurred but have not yet been reported to the Cedant.
+
+5.7 DEMAND SURGE: The increase in claims cost following a major
+    catastrophe due to temporary shortage of materials and labor.
+    This is a recognized component of Cat loss development.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 6 — PREMIUM
+═══════════════════════════════════════════════════════════════
+
+6.1 The Deposit Premium (initial estimate) shall be:
+    Provisional Rate on Line × Layer Limit = Deposit Premium
+    Subject to adjustment based on final exposure submission.
+
+6.2 The Adjustment Premium will be calculated at year-end based
+    on the Cedant's actual subject premium written.
+
+6.3 Minimum Premium: 75% of the Deposit Premium.
+
+6.4 Payment: Premium is payable quarterly in arrears.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 7 — LOSS REPORTING AND CLAIMS
+═══════════════════════════════════════════════════════════════
+
+7.1 The Cedant shall notify the Reinsurer of any Occurrence likely
+    to generate a loss under this Agreement as soon as practicable,
+    and in any event within 30 days of the Cedant becoming aware.
+
+7.2 Proof of Loss to be submitted within 90 days of final loss
+    determination, including:
+    (a) Itemized loss bordereaux
+    (b) Actuarial development summary
+    (c) Statement of IBNR reserves
+
+7.3 The Reinsurer has the right to inspect all records related
+    to any loss claimed under this Agreement.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 8 — LOSS SETTLEMENT
+═══════════════════════════════════════════════════════════════
+
+8.1 The Reinsurer shall pay its share of losses within 45 days
+    of receipt of satisfactory proof of loss.
+
+8.2 Interim loss payments may be made for large losses where
+    the Cedant provides satisfactory interim loss estimates.
+
+8.3 FOLLOW THE FORTUNES: The Reinsurer agrees to follow the
+    fortunes of the Cedant with respect to all loss settlements
+    made by the Cedant in good faith, subject to the terms
+    of this Agreement.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 9 — RETROCESSION AND OTHER RECOVERIES
+═══════════════════════════════════════════════════════════════
+
+9.1 This Agreement sits above all INURING recoveries, meaning
+    the Cedant must first exhaust any prior-layer reinsurance
+    before claiming under this Agreement.
+
+9.2 Subrogation: Any subrogation recoveries shall be shared
+    pro-rata between the Cedant and the Reinsurer in proportion
+    to their respective shares of the original loss.
+
+═══════════════════════════════════════════════════════════════
+ARTICLE 10 — ARBITRATION AND GOVERNING LAW
+═══════════════════════════════════════════════════════════════
+
+10.1 Any dispute shall first be submitted to the parties' senior
+     management for resolution.
+
+10.2 Unresolved disputes shall be referred to Arbitration under
+     the ARIAS-U.S. Procedures for Insured-Reinsurer Disputes.
+
+10.3 This Agreement shall be governed by the laws of the State
+     of New York.
+
+═══════════════════════════════════════════════════════════════
+SCHEDULE A — EXPOSURE DATA REQUIREMENTS
+═══════════════════════════════════════════════════════════════
+
+The Cedant shall provide the following data for exposure analysis:
+
+Required fields per location:
+  - Location ID
+  - State / County
+  - Latitude / Longitude
+  - Total Insured Value (TIV)
+  - Construction Type (ISO classification)
+  - Occupancy Type
+  - Year Built
+  - Distance to coast
+  - FEMA Flood Zone designation
+
+Data to be submitted by November 30 preceding each contract year.

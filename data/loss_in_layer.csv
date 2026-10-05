@@ -1,0 +1,4 @@
+year,annual_gross_loss,annual_gross_loss_m,loss_entering_layer,loss_in_layer,layer_penetrated,exhausted_layer,loss_above_layer,loss_in_layer_m
+2005,133533306.0,133.53,83533306.0,50000000.0,True,True,33533306.0,50.0
+2017,97098575.0,97.1,47098575.0,47098575.0,True,False,0.0,47.1
+2022,54901435.0,54.9,4901435.0,4901435.0,True,False,0.0,4.9

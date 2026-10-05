@@ -1,0 +1,4 @@
+method,description,pure_rol_pct,annual_hit_frequency,simulation_years,expected_ground_up_loss,expected_layer_loss,weight,weighted_pure_rol_pct
+Burning Cost,Historical average annual loss in the treaty layer.,8.16,,,,,0.4,3.2640000000000002
+Frequency-Severity,Monte Carlo simulation of annual layer losses.,68.0552,1.0,100000.0,,,0.35,23.819319999999998
+Exposure Rating,Top-down exposure-based expected loss estimate.,2.1034,,,3004902.07,1051715.72,0.25,0.52585

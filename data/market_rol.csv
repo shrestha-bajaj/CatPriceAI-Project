@@ -1,0 +1,172 @@
+year,region,peril,market_rol
+2005,Gulf Coast,Hurricane,0.1869
+2005,Gulf Coast,Flood,0.0795
+2005,Gulf Coast,All Perils,0.233
+2005,Southeast,Hurricane,0.1613
+2005,Southeast,Flood,0.0923
+2005,Southeast,All Perils,0.2226
+2005,Florida Only,Hurricane,0.1719
+2005,Florida Only,Flood,0.0619
+2005,Florida Only,All Perils,0.2396
+2006,Gulf Coast,Hurricane,0.2803
+2006,Gulf Coast,Flood,0.2108
+2006,Gulf Coast,All Perils,0.3499
+2006,Southeast,Hurricane,0.2951
+2006,Southeast,Flood,0.1998
+2006,Southeast,All Perils,0.3572
+2006,Florida Only,Hurricane,0.2958
+2006,Florida Only,Flood,0.219
+2006,Florida Only,All Perils,0.341
+2007,Gulf Coast,Hurricane,0.2837
+2007,Gulf Coast,Flood,0.2125
+2007,Gulf Coast,All Perils,0.3285
+2007,Southeast,Hurricane,0.3022
+2007,Southeast,Flood,0.1917
+2007,Southeast,All Perils,0.3526
+2007,Florida Only,Hurricane,0.3131
+2007,Florida Only,Flood,0.1889
+2007,Florida Only,All Perils,0.3458
+2008,Gulf Coast,Hurricane,0.2838
+2008,Gulf Coast,Flood,0.1965
+2008,Gulf Coast,All Perils,0.3239
+2008,Southeast,Hurricane,0.2858
+2008,Southeast,Flood,0.1885
+2008,Southeast,All Perils,0.3391
+2008,Florida Only,Hurricane,0.2831
+2008,Florida Only,Flood,0.1894
+2008,Florida Only,All Perils,0.3203
+2009,Gulf Coast,Hurricane,0.1959
+2009,Gulf Coast,Flood,0.0821
+2009,Gulf Coast,All Perils,0.2067
+2009,Southeast,Hurricane,0.1972
+2009,Southeast,Flood,0.0817
+2009,Southeast,All Perils,0.2017
+2009,Florida Only,Hurricane,0.181
+2009,Florida Only,Flood,0.0856
+2009,Florida Only,All Perils,0.232
+2010,Gulf Coast,Hurricane,0.1934
+2010,Gulf Coast,Flood,0.0701
+2010,Gulf Coast,All Perils,0.2387
+2010,Southeast,Hurricane,0.1786
+2010,Southeast,Flood,0.0706
+2010,Southeast,All Perils,0.222
+2010,Florida Only,Hurricane,0.1751
+2010,Florida Only,Flood,0.0681
+2010,Florida Only,All Perils,0.2366
+2011,Gulf Coast,Hurricane,0.1976
+2011,Gulf Coast,Flood,0.0935
+2011,Gulf Coast,All Perils,0.2173
+2011,Southeast,Hurricane,0.1886
+2011,Southeast,Flood,0.0941
+2011,Southeast,All Perils,0.2032
+2011,Florida Only,Hurricane,0.1764
+2011,Florida Only,Flood,0.0857
+2011,Florida Only,All Perils,0.2391
+2012,Gulf Coast,Hurricane,0.1882
+2012,Gulf Coast,Flood,0.0855
+2012,Gulf Coast,All Perils,0.2082
+2012,Southeast,Hurricane,0.1717
+2012,Southeast,Flood,0.0664
+2012,Southeast,All Perils,0.2122
+2012,Florida Only,Hurricane,0.1887
+2012,Florida Only,Flood,0.0983
+2012,Florida Only,All Perils,0.2006
+2013,Gulf Coast,Hurricane,0.1725
+2013,Gulf Coast,Flood,0.062
+2013,Gulf Coast,All Perils,0.235
+2013,Southeast,Hurricane,0.1878
+2013,Southeast,Flood,0.0931
+2013,Southeast,All Perils,0.2367
+2013,Florida Only,Hurricane,0.1661
+2013,Florida Only,Flood,0.0788
+2013,Florida Only,All Perils,0.2219
+2014,Gulf Coast,Hurricane,0.1807
+2014,Gulf Coast,Flood,0.0888
+2014,Gulf Coast,All Perils,0.2329
+2014,Southeast,Hurricane,0.1694
+2014,Southeast,Flood,0.0642
+2014,Southeast,All Perils,0.2246
+2014,Florida Only,Hurricane,0.1697
+2014,Florida Only,Flood,0.0931
+2014,Florida Only,All Perils,0.2186
+2015,Gulf Coast,Hurricane,0.1876
+2015,Gulf Coast,Flood,0.0742
+2015,Gulf Coast,All Perils,0.2041
+2015,Southeast,Hurricane,0.172
+2015,Southeast,Flood,0.0665
+2015,Southeast,All Perils,0.2093
+2015,Florida Only,Hurricane,0.1818
+2015,Florida Only,Flood,0.0742
+2015,Florida Only,All Perils,0.2298
+2016,Gulf Coast,Hurricane,0.1859
+2016,Gulf Coast,Flood,0.0908
+2016,Gulf Coast,All Perils,0.2316
+2016,Southeast,Hurricane,0.1811
+2016,Southeast,Flood,0.0703
+2016,Southeast,All Perils,0.2398
+2016,Florida Only,Hurricane,0.1643
+2016,Florida Only,Flood,0.0766
+2016,Florida Only,All Perils,0.2062
+2017,Gulf Coast,Hurricane,0.1803
+2017,Gulf Coast,Flood,0.0923
+2017,Gulf Coast,All Perils,0.219
+2017,Southeast,Hurricane,0.1774
+2017,Southeast,Flood,0.0733
+2017,Southeast,All Perils,0.2031
+2017,Florida Only,Hurricane,0.189
+2017,Florida Only,Flood,0.0901
+2017,Florida Only,All Perils,0.2246
+2018,Gulf Coast,Hurricane,0.1961
+2018,Gulf Coast,Flood,0.0653
+2018,Gulf Coast,All Perils,0.208
+2018,Southeast,Hurricane,0.1939
+2018,Southeast,Flood,0.0864
+2018,Southeast,All Perils,0.2207
+2018,Florida Only,Hurricane,0.1909
+2018,Florida Only,Flood,0.0911
+2018,Florida Only,All Perils,0.2222
+2019,Gulf Coast,Hurricane,0.1876
+2019,Gulf Coast,Flood,0.07
+2019,Gulf Coast,All Perils,0.2281
+2019,Southeast,Hurricane,0.176
+2019,Southeast,Flood,0.0847
+2019,Southeast,All Perils,0.224
+2019,Florida Only,Hurricane,0.1844
+2019,Florida Only,Flood,0.0881
+2019,Florida Only,All Perils,0.2031
+2020,Gulf Coast,Hurricane,0.1685
+2020,Gulf Coast,Flood,0.0719
+2020,Gulf Coast,All Perils,0.2386
+2020,Southeast,Hurricane,0.1863
+2020,Southeast,Flood,0.067
+2020,Southeast,All Perils,0.2273
+2020,Florida Only,Hurricane,0.1936
+2020,Florida Only,Flood,0.096
+2020,Florida Only,All Perils,0.2083
+2021,Gulf Coast,Hurricane,0.1979
+2021,Gulf Coast,Flood,0.0693
+2021,Gulf Coast,All Perils,0.2062
+2021,Southeast,Hurricane,0.1852
+2021,Southeast,Flood,0.0615
+2021,Southeast,All Perils,0.2318
+2021,Florida Only,Hurricane,0.1657
+2021,Florida Only,Flood,0.0635
+2021,Florida Only,All Perils,0.2328
+2022,Gulf Coast,Hurricane,0.1985
+2022,Gulf Coast,Flood,0.0904
+2022,Gulf Coast,All Perils,0.2328
+2022,Southeast,Hurricane,0.1975
+2022,Southeast,Flood,0.0766
+2022,Southeast,All Perils,0.2128
+2022,Florida Only,Hurricane,0.1883
+2022,Florida Only,Flood,0.0851
+2022,Florida Only,All Perils,0.2274
+2023,Gulf Coast,Hurricane,0.2685
+2023,Gulf Coast,Flood,0.1686
+2023,Gulf Coast,All Perils,0.2889
+2023,Southeast,Hurricane,0.2433
+2023,Southeast,Flood,0.16
+2023,Southeast,All Perils,0.3176
+2023,Florida Only,Hurricane,0.2694
+2023,Florida Only,Flood,0.1466
+2023,Florida Only,All Perils,0.2827

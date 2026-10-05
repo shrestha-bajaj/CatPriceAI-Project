@@ -1,0 +1,170 @@
+ATLAS REINSURANCE LIMITED
+PROPERTY CAT XL UNDERWRITING GUIDELINES — GULF COAST WIND & FLOOD
+Version 3.2  |  Effective January 2024
+
+═══════════════════════════════════════════════════════════════════
+SECTION 1: INTRODUCTION & SCOPE
+═══════════════════════════════════════════════════════════════════
+
+These guidelines govern the underwriting of Property Catastrophe
+Excess of Loss (Cat XL) treaties for cedants with exposure in
+Texas, Louisiana, Mississippi, Alabama, and Florida.
+
+Cat XL reinsurance is the primary mechanism by which primary
+insurers manage their accumulation risk from a single catastrophic
+event. Atlas Re provides capacity in layers from $10M to $500M.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 2: CEDANT ELIGIBILITY CRITERIA
+═══════════════════════════════════════════════════════════════════
+
+2.1 MINIMUM REQUIREMENTS
+  • Minimum $100M TIV in the affected territory
+  • At least 3 years of loss run history
+  • A-rated carrier or Lloyd's syndicate
+  • Must submit COPE data (Construction, Occupancy, Protection, Exposure)
+  • Must maintain a licensed admitted status in all covered states
+
+2.2 PREFERRED CEDANT PROFILE
+  • Mixed portfolio across multiple states (not single-state concentration)
+  • Less than 40% of TIV in any single county
+  • Average property age < 20 years
+  • Less than 50% wood frame construction
+  • Less than 25% of TIV within 10km of coastline
+  • Active cat model vendor relationship (RMS, AIR, or KCC)
+
+2.3 INELIGIBLE BUSINESS
+  • Mobile/Manufactured home portfolios >20% of TIV
+  • Surplus lines business without admitted alternative
+  • Beach & Windstorm Association business (state plans)
+  • Portfolios with >30% Commercial Properties lacking sprinklers
+
+═══════════════════════════════════════════════════════════════════
+SECTION 3: ATTACHMENT POINT GUIDELINES
+═══════════════════════════════════════════════════════════════════
+
+3.1 MINIMUM ATTACHMENT POINT
+  Attachment should be set such that the cedant retains losses
+  from all but the most severe events. Rule of thumb:
+    Attachment ≥ 1-in-10 year PML (Probable Maximum Loss)
+
+3.2 LAYER SIZING
+  Maximum limit per layer: USD 100,000,000
+  Minimum layer height:    USD 10,000,000
+  Recommended thickness:   At least equal to attachment
+
+3.3 PENETRATION PROBABILITY
+  • First layer (closest to ground): max 20% annual penetration
+  • Upper layers: expect < 5% annual penetration probability
+
+═══════════════════════════════════════════════════════════════════
+SECTION 4: PRICING METHODOLOGY & BENCHMARKS
+═══════════════════════════════════════════════════════════════════
+
+4.1 PRIMARY PRICING TOOLS
+  Atlas Re uses three methods with the following standard weights:
+    • Burning Cost (Experience Rating):  30% weight
+    • Frequency-Severity (Analytical):   45% weight
+    • Exposure Rating:                   25% weight
+
+  These weights may be adjusted where data quality warrants.
+
+4.2 MINIMUM ROL STANDARDS (Gulf Coast, 2024)
+  • Hurricane Wind:      Minimum 15% ROL for first-layer Cat XL
+  • Hurricane + Flood:   Minimum 20% ROL for all-perils cover
+  • Flood Only:          Minimum 8% ROL
+
+4.3 EXPERIENCE PERIOD
+  Minimum 5 years; preferred 10+ years.
+  Post-2005 experience should always be included (Katrina benchmark).
+  Events prior to 2000 receive a 50% weight due to portfolio change.
+
+4.4 TREND ADJUSTMENT
+  Apply 3% annual trend to historical losses for Gulf Wind.
+  Apply 4% annual trend for Flood losses (NFIP reform impact).
+
+4.5 CREDIBILITY STANDARDS
+  • <5 years experience:   Use 0% credibility (exposure rating only)
+  • 5-15 years:            Partial credibility (Bühlmann formula)
+  • 15+ years:             Up to 70% credibility on burning cost
+
+═══════════════════════════════════════════════════════════════════
+SECTION 5: EXPOSURE RATING PARAMETERS
+═══════════════════════════════════════════════════════════════════
+
+5.1 HURRICANE MEAN DAMAGE RATIOS (MDR) — Gulf Coast
+
+  Construction Type     Zone A     Zone B     Zone C
+  ─────────────────     ──────     ──────     ──────
+  Wood Frame            4.5%       2.8%       1.2%
+  Masonry               2.8%       1.8%       0.8%
+  Steel Frame           1.5%       1.0%       0.5%
+  Manufactured          8.0%       5.5%       2.5%
+
+  Zones: A = <10km coast, B = 10-50km, C = >50km
+
+5.2 FLOOD MDR ADJUSTMENTS
+  FEMA Zone A:   add 2.5% to above MDR
+  FEMA Zone AE:  add 1.5% to above MDR
+  FEMA Zone X:   no additional loading
+
+5.3 AGE FACTORS
+  Built post-2000:  MDR × 0.80  (modern code compliance)
+  Built 1980-2000:  MDR × 1.00  (baseline)
+  Built pre-1980:   MDR × 1.20  (pre-code construction)
+
+═══════════════════════════════════════════════════════════════════
+SECTION 6: RISK FLAGS & UNDERWRITING ACTIONS
+═══════════════════════════════════════════════════════════════════
+
+6.1 AUTOMATIC FLAGS (require senior underwriter review)
+  • Any single state concentration > 50% TIV
+  • Any single county concentration > 20% TIV
+  • Wood frame > 70% of TIV
+  • More than 30% of TIV in FEMA high-risk flood zones
+  • Technical ROL < market benchmark by more than 10%
+  • Cedant loss ratio > 80% in any of the prior 3 years
+
+6.2 ACCEPTABLE RISK MITIGANTS
+  • Strong cat model output showing low modeled loss
+  • Recent portfolio underwriting action (e.g., coastal non-renewal)
+  • Third-party loss control certification
+  • Multi-year agreement with rate step-up provisions
+
+6.3 DECLINATION CRITERIA
+  • No COPE data available
+  • Cedant in regulatory/financial distress
+  • Pending material litigation affecting the portfolio
+  • Technical ROL < minimum ROL floor (see Section 4.2)
+
+═══════════════════════════════════════════════════════════════════
+SECTION 7: IBNR AND LOSS DEVELOPMENT
+═══════════════════════════════════════════════════════════════════
+
+7.1 Cat losses typically develop faster than casualty:
+  • 12 months: expect 75-85% of ultimate reported
+  • 24 months: expect 92-97% of ultimate reported
+  • 36 months: expect 98-100% of ultimate reported
+
+7.2 Demand surge: add 10-15% to initial loss estimates
+    for events with industry loss > $10B
+
+7.3 Development-to-Ultimate factor for pricing:
+    Apply a 1.05 factor to burning cost for late development.
+
+═══════════════════════════════════════════════════════════════════
+SECTION 8: MARKET CONTEXT (2024 RENEWAL)
+═══════════════════════════════════════════════════════════════════
+
+Post-Ian (2022), the Gulf Coast cat market has:
+• Hardened significantly — average 30-40% rate increase 2023
+• Reduced capacity from several large reinsurers
+• Tightened terms: fewer Named Storm aggregate covers
+• Higher minimum premiums and reduced reinstatements
+
+Expected 2024 market ROL range (Gulf Coast All-Perils Cat XL):
+• First layer ($25–50M xs $25M):    25–35% ROL
+• Mid layer ($50M xs $50M):         18–25% ROL
+• Upper layer ($50M xs $100M):      10–15% ROL
+
+Recommended strategy: Quote competitive but firm; no sub-floor pricing.
